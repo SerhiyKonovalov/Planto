@@ -681,27 +681,27 @@ textarea.input {
   pointer-events: none;
 }
 .button-plants .fil-leaf-1 {
-  fill: #7fa82b;
+  fill: #67a82b;
 }
 .button-plants .fil-leaf-2 {
-  fill: #556729;
+  fill: #296731;
   fill-rule: nonzero;
 }
 .button-plants .fil-leaf-3 {
-  fill: #556729;
+  fill: #356729;
 }
 .button-plants .fil-leaf-4 {
-  fill: #3c4819;
+  fill: #19481b;
 }
 .button-plants .fil-leaf-5 {
-  fill: #3c4819;
+  fill: #357924;
 }
 .button-plants:hover {
   color: #1b2316;
   border-radius: 0.1875rem 0.1875rem 1.375rem 1.375rem;
   font-weight: 600;
   background: #80c56e;
-  box-shadow: 0.125rem 0.125rem 0.3125rem black, inset 0.125rem 0.125rem 0.9375rem #0e7724;
+  box-shadow: 0.1875rem 0.1875rem 0.625rem rgba(0, 0, 0, 0.5), inset 0rem 0rem 1.5625rem #0b641e;
 }
 .button-plants:hover .plant-1 {
   top: -250%;
